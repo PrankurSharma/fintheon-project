@@ -18,3 +18,5 @@ There are a few third party libraries used in order to perform the desired funct
 Note: Please note that I have also implemented caching on the front end(using localStorage) and the code for that is commented out.  Steps are also mentioned in the code in order perform caching at front end. In that case, backend code will be commented out(mentioned in the code) and server folder will be useless in case of front end caching. Front end caching will delete the data stored in localStorage everytime the browser starts i.e. the data is stored in the localStorage till the browser in shut down.
 
 5. CORS: Cors is another library that is used for seamless transfer of data between front end and back end. It provides a middleware for backend in order to communicate with front end.
+
+Please note that there were some urls mentioned in the api which were unnecessary to be included on the website as they were not related to aqi of the city. Those urls have been ignored and have not been added in the project.
