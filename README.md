@@ -5,6 +5,15 @@ Technical Skills used in this project: ReactJS(Frontend), NodeJS(Backend), Netli
 Link to the depoyed website:
 https://aqitracker.netlify.app/
 
+API used for the website:
+
+https://api.waqi.info/feed/{city_name}/?token={token_no}
+
+city_name: to be replaced with appropriate city name.
+token_no: generated at the time of login to the website.
+
+The api link was given in the PDF file shared with us. We were supposed to register our email in order to get apis for different cities. Same link has been used in order to generate the api links.
+
 There are a few third party libraries used in order to perform the desired functionalities:
 
 1. Express: This NodeJS framework is used in the backend in order to connect it with front end. The API responses are cached using a library that uses express.
