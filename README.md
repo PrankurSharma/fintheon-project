@@ -2,11 +2,12 @@ Thank you for visiting this project. This project is a part of selection process
 
 Technical Skills used in this project: ReactJS(Frontend), NodeJS(Backend), Netlify(Frontend deployment), Render(Backend deployment)
 
-Link to the depoyed website:
+Link to the deployed website:
 https://aqitracker.netlify.app/
 
-API used for the website:
+In order to run the application, just click on the above link.
 
+API used for the website:
 https://api.waqi.info/feed/{city_name}/?token={token_no}
 
 city_name: to be replaced with appropriate city name.
